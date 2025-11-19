@@ -1,0 +1,5 @@
+train: C:/Users/Ajinkya/PBL/dataset/images/train
+val: C:/Users/Ajinkya/PBL/dataset/images/val
+test: C:/Users/Ajinkya/PBL/dataset/images/test
+nc: 1
+names: ["microplastic"]
