@@ -23,7 +23,7 @@ The Pi captures the water sample image, runs the model locally, and displays det
 - **Edge-Based AI Processing** – All inference runs directly on Raspberry Pi 4  
 - **Image Capture Pipeline** – Uses Pi Camera Module for real-time imaging  
 - **Deep Learning Detection** – Identifies microplastic shapes/patterns  
-- **Offline & Cloud-Free** – Works anywhere without internet  
+- **Offline & Cloud-Free** – Works anywhere with internet  
 - **Low Cost & Portable** – Suitable for field research and academic use  
 
 ---
